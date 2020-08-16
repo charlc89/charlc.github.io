@@ -1,7 +1,7 @@
 ---
 title: 
 feature_text: |
-  ## Summer Lotus
+  ## Summer Forest
   Expecto Patronum
 feature_image: "https://i.pinimg.com/originals/3b/8a/d2/3b8ad2c7b1be2caf24321c852103598a.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
