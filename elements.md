@@ -8,8 +8,8 @@ aside: true
 ---
 
 
-{% include figure.html image="/assets/IMG_1532.jpeg" caption="Image with caption" width="300" height="800" %}
+{% include figure.html image="/assets/IMG_1532.jpeg" width="300" height="800" %}
 
-{% include figure.html image="/assets/IMG_2553.jpeg" caption="Right aligned image" position="right" width="300" height="800" %}
+{% include figure.html image="/assets/IMG_2553.jpeg"  position="right" width="300" height="800" %}
 
-{% include figure.html image="/assets/Dark_Firewood.jpeg" caption="Left aligned image" position="left" width="300" height="800" %}
+{% include figure.html image="/assets/Dark_Firewood.jpeg"  position="left" width="300" height="800" %}
