@@ -1,7 +1,7 @@
 ---
 title: Elements
 feature_text: |
-  A demo of Markdown and HTML includes
+  
 feature_image: "/assets/IMG_0238_Fotor.jpeg"
 excerpt: ""
 aside: true
