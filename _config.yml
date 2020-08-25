@@ -93,7 +93,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Summer Forest" # Site name or title, also used in jekyll-seo-tag
+title: "Charles Chan" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Expecto Patronum" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
@@ -130,7 +130,7 @@ navigation_header:
 - title: Search
   url: /search/
 navigation_footer:
-- title: Created by Charles Chan
+- title:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/
