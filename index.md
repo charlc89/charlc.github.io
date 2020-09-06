@@ -7,4 +7,4 @@ feature_text: |
 feature_image: "https://i.pinimg.com/originals/3b/8a/d2/3b8ad2c7b1be2caf24321c852103598a.jpg"
 excerpt: "But man is made for defeat. A man can be destroyed, but not defeated --Ernest Hemingway."
 ---
-## Description of a Pot Still (https://charlc89.github.io/general/2016/08/29/example-post-three/)
+## [Description of a Pot Still] (https://charlc89.github.io/general/2016/08/29/example-post-three/)
