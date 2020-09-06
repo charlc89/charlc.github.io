@@ -10,11 +10,6 @@ excerpt: "But man is made for defeat. A man can be destroyed, but not defeated -
 
 <main class="main  container">
 
-  <div class="content">
-
-
     {% include post-list.html %}
-
-  </div>
 
 </main>
